@@ -5,6 +5,5 @@ public class Valet implements HotelService {
 
     @Override
     public void serviceMethod() {
-        // Implementation can be added if needed
     }
 }
